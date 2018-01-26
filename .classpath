@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1.jar" sourcepath="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.1/javax.ws.rs-api-2.1-sources.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+  <classpathentry kind="var" path="M2_REPO/org/mariadb/jdbc/mariadb-java-client/2.2.1/mariadb-java-client-2.2.1.jar" sourcepath="M2_REPO/org/mariadb/jdbc/mariadb-java-client/2.2.1/mariadb-java-client-2.2.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/mongodb/mongo-java-driver/3.6.1/mongo-java-driver-3.6.1.jar" sourcepath="M2_REPO/org/mongodb/mongo-java-driver/3.6.1/mongo-java-driver-3.6.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/neo4j/driver/neo4j-java-driver/1.5.0/neo4j-java-driver-1.5.0.jar" sourcepath="M2_REPO/org/neo4j/driver/neo4j-java-driver/1.5.0/neo4j-java-driver-1.5.0-sources.jar"/>
+</classpath>
